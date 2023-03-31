@@ -1,6 +1,6 @@
 Name:		texlive-hypdestopt
 Version:	56253
-Release:	1
+Release:	2
 Summary:	Hyperref destination optimizer
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hypdestopt
