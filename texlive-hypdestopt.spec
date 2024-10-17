@@ -3,7 +3,7 @@ Version:	71991
 Release:	1
 Summary:	Hyperref destination optimizer
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hypdestopt
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hypdestopt
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hypdestopt.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hypdestopt.doc.r%{version}.tar.xz
